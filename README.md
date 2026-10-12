@@ -86,3 +86,5 @@ If you'd like to contribute to this project, follow these steps:
 ## API configuration
 
 Copy .env.example to .env and fill in your RAPID_API_KEY, ONEAI_API_KEY, and ANYSCALE_API_KEY. The .env file is excluded from Git.
+
+MADE WITH LOVE BY SANKALP
